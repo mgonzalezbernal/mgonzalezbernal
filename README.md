@@ -8,7 +8,7 @@ About me -
 
 I'm a passionate Developer with more than 20 years of experience developing games for Mobile, Standalone and WebApps with the stack MERN (Mongodb, Express, React(Nextjs), Node.js) Typescript.
 
-During my career, I have worked on various projects from 2D games to complex 3D games with high-quality graphics and engaging gameplay,  AR( augmented reality) VR (virtual reality ). In addition, I have skills in the use of tools and technologies such as Unity, C#, Java, and Unreal Engine but I'm not only I have been working on Games , also I 'm a Full stack developer and I created a lot of WebApp projects in Next.js, Node.js (React), express, MongoDB with Amazon Service etc..
+During my career, I have worked on various projects from 2D games to complex 3D games with high-quality graphics and engaging gameplay,  AR( augmented reality) VR (virtual reality ). In addition, I have skills in the use of tools and technologies such as Unity, C#, Java, and Unreal Engine but I'm not only I have been working on Games , also I 'm a Full stack developer and I created a lot of WebApp projects in Next.js, Node.js , express, MongoDB with Amazon Service etc..
 
 I consider myself a hard-working, creative person and committed to quality in every project in which I get involved. I am able to work in a team and under pressure to meet established deadlines and objectives.
 
