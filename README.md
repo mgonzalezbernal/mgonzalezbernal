@@ -14,7 +14,7 @@ I consider myself a hard-working, creative person and committed to quality in ev
 
 I love to contribute my experience and skills, and I am sure that I can be a great addition to the development team.
 
-I'm a combination of skills, experiences and perspectives, I'm empatic and super positive, I think outside the box and create innovative solutions, besides I have an adorable smile (that said my mom).
+I'm a combination of skills, experiences and perspectives, I'm empathic and super positive, I think outside the box and create innovative solutions, besides I have an adorable smile (that said my mom).
 It motivates me to grow as a person in all aspects and help my environment to grow with me. It makes me very happy to know that I help someone to excel and achieve their goal.
 
 Skills:
